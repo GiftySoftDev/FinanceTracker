@@ -9,7 +9,9 @@ Built with a Nigerian user in mind: supports both **NGN** and **USD** with real 
 ## Screenshots
 
 > ![App](./assets/financeTracker1.png)
+>
 > ![Transactions&Settings-light](./assets/financeTracker4.png)
+>
 > ![Transactions&Settings-dark](./assets/financeTracker3.png)
 
 ---
